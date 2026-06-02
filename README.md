@@ -34,7 +34,7 @@
 class LawrenceAnthony:
     def __init__(self):
         self.name        = "Lawrence Anthony"
-        self.role        = "AI/ML Engineer @ Pfizer"
+        self.role        = "AI/ML Engineer @ Amgen"
         self.location    = "Newark, New Jersey, USA"
         self.education   = "MS Computer Information Systems — Colorado State University"
         self.experience  = "4+ years building production AI systems"
@@ -193,7 +193,7 @@ class LawrenceAnthony:
 ## 💼 Experience
 
 ```
-🏢 Pfizer                     AI/ML Engineer              Feb 2026 – Present
+🏢 Amgen                     AI/ML Engineer              Feb 2026 – Present
    └─ Enterprise GenAI platforms for clinical research
    └─ LLaMA 3 · LangChain · LangGraph · vLLM · Kubernetes · AWS
 
